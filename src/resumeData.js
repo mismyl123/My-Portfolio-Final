@@ -90,6 +90,7 @@ let resumeData = {
 "portfolio":[
     {
         "id":1,
+        "link-icon": "https://petful-client-one.vercel.app/",
         "name":"Gaming Social Network",
         "imgurl":"images/portfolio/gsn.jpg",
            

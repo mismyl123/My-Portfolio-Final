@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+TO=DO:  Make a projects div, explanation of project, link to live demo & repo. hint: bring back "work" div & reformat
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
