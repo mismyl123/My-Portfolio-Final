@@ -47,22 +47,22 @@ let resumeData = {
         "Achievements":"Certificate"
     }
 ],
-"work":[
-    {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-    },
-    {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-    }
-],
+// "work":[
+//     {
+//         "CompanyName":"Some Company",
+//         "specialization":"Some specialization",
+//         "MonthOfLeaving":"Jan",
+//         "YearOfLeaving":"2018",
+//         "Achievements":"Some Achievements"
+//     },
+//     {
+//         "CompanyName":"Some Company",
+//         "specialization":"Some specialization",
+//         "MonthOfLeaving":"Jan",
+//         "YearOfLeaving":"2018",
+//         "Achievements":"Some Achievements"
+//     }
+// ],
 "skillsDescription":"",
 "skills":[
     {
@@ -87,7 +87,7 @@ let resumeData = {
         "skillname":"Postgres"
     }
 ],
-"portfolio":[
+"portfolioOne":[
     {
         "id":1,
         "link-icon": "https://petful-client-one.vercel.app/",
@@ -96,7 +96,10 @@ let resumeData = {
            
         
 
-},
+}
+],
+"portfolioTwo":[
+
 {
     "id":2,
     "name":"Bookmarks Most Wanted",
@@ -104,7 +107,10 @@ let resumeData = {
     "imgurl":"images/portfolio/bookmarks.jpg",
     "Github":""
 
-},
+}
+],
+"portfolioThree":[
+
 {
     "id":3,
     "name":"Petful",
@@ -112,7 +118,10 @@ let resumeData = {
     "imgurl":"images/portfolio/petful.jpg",
     "Github":"https://github.com/mismyl123/Petful-Client"
 
-},
+}
+],
+"portfolioFour":[
+
 {
     "id":4,
     "name":"Spaced Repetition",
@@ -122,6 +131,7 @@ let resumeData = {
 
 }
 ],
+
 "testimonials":[
     {
         "description":"Michelle is a great collaborator when we code!",
