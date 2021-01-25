@@ -452,8 +452,8 @@ ul#nav li.current a { color: #F06000; }
 #portfolio-wrapper .columns{ margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
-   display: grid;
-   grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+   /* display: grid;
+   grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr)); */
    overflow: hidden;
    position: relative;
    
