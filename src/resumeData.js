@@ -47,22 +47,7 @@ let resumeData = {
         "Achievements":"Certificate"
     }
 ],
-// "work":[
-//     {
-//         "CompanyName":"Some Company",
-//         "specialization":"Some specialization",
-//         "MonthOfLeaving":"Jan",
-//         "YearOfLeaving":"2018",
-//         "Achievements":"Some Achievements"
-//     },
-//     {
-//         "CompanyName":"Some Company",
-//         "specialization":"Some specialization",
-//         "MonthOfLeaving":"Jan",
-//         "YearOfLeaving":"2018",
-//         "Achievements":"Some Achievements"
-//     }
-// ],
+
 "skillsDescription":"",
 "skills":[
     {
@@ -91,13 +76,13 @@ let resumeData = {
     {
        
         "name":"Gaming Social Network",
-        "about": "A gaming social network",
+        "about": "This app allows users to sign up, login, create a profile and bio about themselves, and upload images to customize their profile.  Users can also find new games, new friends, and groups to play with.",
         "github": "https://github.com/domcodesjs/gaming-social-network-client",
         "githubRepo": "Github Repo",
         "imgurl":"images/portfolio/gsn.jpg",
         "liveDemoUrl": "https://thegsn.xyz/",
         "liveDemo":"Live Demo",
-        "skillsUsed":"Skills used: Javascript, React, Postgres, JQuery, Vercel, Heroku, Algorithms"
+        "skillsUsed":"Skills used: Javascript, React, Postgres, JQuery, Vercel, Heroku, Styled Components, Knex, HTML, CSS."
            
         
 
@@ -106,13 +91,13 @@ let resumeData = {
 {
     
     "name":"Bookmarks Most Wanted",
-    "about":"A bookmarks app made with react",
+    "about":"This is a single page app created to save bookmarks.  It only accesses one API endpoint, and all data is wiped every 24 hours. Users can add as many bookmark sites as they choose, add a description, and a star rating from 1-5.",
     "github":"https://github.com/mismyl123/mismyl123-bookmarks-app",
     "githubRepo":"Github Repo",
     "imgurl":"images/portfolio/bookmarks.jpg",
     "liveDemoUrl":"https://thinkful-ei-shark.github.io/mismyl123-bookmarks-app/",
     "liveDemo":"Live Demo",
-    "skillsUsed":"Skills used: Javascript, React, Postgres, JQuery, Vercel, Heroku, Algorithms"
+    "skillsUsed":"Skills used: Javascript, React, JQuery, Github Pages, HTML, CSS."
    
 
 },
@@ -121,13 +106,13 @@ let resumeData = {
 {
     
     "name":"Petful",
-    "about":"A FIFO app used to mimic real adoption agency",
+    "about":"This app simulates an online adoption animal agency.  It works on a First-In, First-Out basis.  Users can adopt a cat or a dog, but they may only adopt the cat or dog that has been at the shelter the longest.  Users submit their name to a Queue so they can adopt when their name comes to the top of the list.",
     "github":"https://github.com/mismyl123/Petful-Client",
     "githubRepo": "Github Repo",
     "imgurl":"images/portfolio/petful.jpg",
     "liveDemoUrl": "https://petful-client-one.vercel.app/",
     "liveDemo":"Live Demo",
-    "skillsUsed":"Skills used: Javascript, React, Postgres, JQuery, Vercel, Heroku, Algorithms"
+    "skillsUsed":"Skills used: Javascript, React, Node, Postgres, JQuery, Knex, Vercel, Heroku, Algorithms, HTML, CSS."
 
 },
 
@@ -135,13 +120,13 @@ let resumeData = {
 {
     
     "name":"Spaced Repetition",
-    "about":"An app that uses spaced repetition technique to teach new language",
+    "about":"An app that uses spaced repetition technique to teach new language.  Users sign up and login to the app, where they are directed to the learning page.  They are shown a word in Spanish, and given an input field to guess the word. The app tells the user if they guessed correctly, moves on to the next word, and keeps track of all guesses.",
     "github": "https://github.com/mismyl123/spaced-repetition",
     "githubRepo": "Github Repo",
     "imgurl":"images/portfolio/SR.jpg",
     "liveDemoUrl": "https://spaced-repetition-navy.vercel.app/",
     "liveDemo":"Live Demo",
-    "skillsUsed":"Skills used: Javascript, React, Postgres, JQuery, Vercel, Heroku, Algorithms"
+    "skillsUsed":"Skills used: Javascript, Express, Cypress, Postgres, JQuery, Vercel, Heroku, Algorithms, Mocha, HTML, CSS."
 
 }
 ],
