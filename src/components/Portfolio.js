@@ -8,7 +8,7 @@ export default class Portfolio extends Component {
                 <div className="row">
 
                     <div className="twelve columns collapsed">
-                        <h1> Check Out Some of My Projects.</h1>
+                        <h5> Check Out Some of My Projects.</h5>
                         <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf" alt="">
                             {/* <ul className="portfolio"> */}
                             {
@@ -24,20 +24,22 @@ export default class Portfolio extends Component {
 
                                                         </a>
                                                     </li>
-                                                    <li><h4>{item.name}</h4>
+                                                    <li><h5>{item.name}</h5>
                                                     </li>
                                                     <li>
                                                         <p>{item.about}</p>
                                                     </li>
                                                     <li>
                                                         <a href={item.liveDemoUrl}>
-                                                            <h7>{item.liveDemo} </h7>
+                                                            <h4>{item.liveDemo} </h4>
                                                         </a>
                                                         
                                                     </li>
                                                     <li>
+                                                        
                                                          <a href={item.github}>
-                                                            <h7>{item.githubRepo} </h7>
+                                                            <h4>{item.githubRepo}</h4>
+                                                        
                                                         </a>
                                                         
                                                     </li>
