@@ -1,7 +1,0 @@
-
-
-/node_modules
-.env
-.vercel
-/build
-.env.local
